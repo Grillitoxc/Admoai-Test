@@ -44,7 +44,15 @@ Dashboard administrativo completo en Next.js para gestionar AdSpots con las sigu
 
 **Stretch**
 
-- Simple search (by title) and placement filter chips.
-- Optimistic UI for deactivating.
+- Simple search (by title) and placement filter chips
+- Optimistic UI for deactivating
 
 **Stack:** Next.js 16, React 19, TypeScript, TailwindCSS 4, HeroUI 2.8
+
+# Cosas que no alcancé a hacer
+
+- Testing al back y al front
+- Hacer una mejor configuración de los docker files (puertos y gestión de credenciales)
+- Agregar mejor documentación al código
+- Pensar en una mejor arquitectura para el backend
+- Implementar una base de datos externa
